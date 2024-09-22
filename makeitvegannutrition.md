@@ -15,6 +15,11 @@ Created by [ericaverse](https://github.com/ericaverse)
   - React.js
 - MongoDB
 
+### Applications Created
+- [ ] Make It Vegan Nutrition Website/Web App
+- [ ] Web Page Builder and Portal for Admins and Contributors
+
+
 #### Website Architecture 🌐
 [Home Page ](./pages/index.html)
 
