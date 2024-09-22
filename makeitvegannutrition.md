@@ -1,7 +1,7 @@
 # Make It Vegan Nutrition
 Created by [ericaverse](https://github.com/ericaverse)
 ****
-**Nav**: [Objective](#objective) • [Technologies Used](#technologies-used) • [Website Architecture](#website-architecture-) • [Applications Created](#applications-created) • [Marketing Interactivity](#marketing-interactivity) 
+**Nav**: [Objective](#objective) • [Technologies Used](#technologies-used) • [Applications Created](#applications-created) • [Website Architecture](#website-architecture-) •  [Marketing Interactivity](#marketing-interactivity) 
 ****
 
 ## Objective
