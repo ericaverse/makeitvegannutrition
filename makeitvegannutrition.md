@@ -1,7 +1,7 @@
 # Make It Vegan Nutrition
 Created by [ericaverse](https://github.com/ericaverse)
 ****
-**Nav**: [Objective](#objective) • [Technologies Used](#technologies-used) • [Website Architecture](#website-architecture-) • [Marketing Interactivity](#marketing-interactivity) 
+**Nav**: [Objective](#objective) • [Technologies Used](#technologies-used) • [Website Architecture](#website-architecture-) • [Applications Created](#applications-created) • [Marketing Interactivity](#marketing-interactivity) 
 ****
 
 ## Objective
@@ -21,19 +21,20 @@ Created by [ericaverse](https://github.com/ericaverse)
 
 
 #### Website Architecture 🌐
-[Home Page ](./pages/index.html)
+[Home Page 🍽️](./pages/index.html)
 
-- [Muladhara]()
-- [Svadhisthana]()
-- [Manipura]()
-- [Anahata]()
-- [Vishuddha]()
-- [Ajna]()
-- [Sahasrara]()
-- [Eat Your Chakras! [campaign/challenge]]()
+- Muladhara 🍎 [muladhara.html](./pages/chakra/muladhara.html)
+- Svadhisthana 🍊 [svadhisthana.html](./pages/chakra/svadhisthana.html)
+- Manipura 🍌 [manipura.html](./pages/chakra/manipura.html)
+- Anahata 🥬 [anahata.html](./pages/chakra/anahata.html)
+- Vishuddha 🫐 [vishuddha.html)](./pages/chakra/vishuddha.html)
+- Ajna 🪻[ajna.html](./pages/chakra/ajna.html)
+- Sahasrara 🥥 [sahasrara.html](./pages/chakra/sahasrara.html)
+- Eat Your Chakras! 🥗 [campaign/eyc.html](./pages/campaigns/eyc.html)
 
-[Blog Archive/Newsletter ]()
-[Contact Page]()
+[Blog Archive/Newsletter 📂](./pages/archive.html)
+
+[Contact Page 📍](./pages/contact.html)
 
 ##### Styles
 
